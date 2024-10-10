@@ -1,0 +1,14 @@
+pytube 
+moviepy 
+SpeechRecognition 
+nrclex 
+spacy 
+nltk
+textblob 
+deep_translator 
+
+
+
+
+
+

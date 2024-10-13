@@ -16,7 +16,7 @@ Running a project from source code
 The source code for the project is available and can be downloaded from GitHub.
 
 Step1.  Clone the repository:
-git clone https://github.com/Birkbeck/msc-projects-2023-4-IKhrebtovich 
+git clone 
 
 Step 2. Install dependencies (if necessary):
 pip install -r requirements.txt
